@@ -1,6 +1,4 @@
-# bug-free-barnacle
 
-<!DOCTYPE html>
 <html lang="pl-PL">
 <head>
     <meta charset="UTF-8">
@@ -53,7 +51,6 @@
             color: #ddd;
         }
 </style>
-</head>
 </body>
 
 
